@@ -1,6 +1,3 @@
 [
-  { "rule": "военный рюкзак (грязное) > 26 предметов", "active": true, "exclude": false },
-  { "rule": "кобура", "active": true, "exclude": false },
-  { "rule": "кобура", "active": true, "exclude": false },
-  { "rule": "колчан", "active": true, "exclude": false }
+  
 ]
